@@ -31,6 +31,7 @@ import LatestPostsGroup from './components/LatestPostsGroup'
 import FloatTocButton from './components/FloatTocButton'
 import replaceSearchResult from '@/components/Mark'
 import LazyImage from '@/components/LazyImage'
+import AdSlot from '@/components/GoogleAdsense'
 
 /**
  * 基础布局 采用上中下布局，移动端使用顶部侧边导航栏
