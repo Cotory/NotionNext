@@ -59,7 +59,7 @@ const LayoutBase = props => {
                         {slotTop}
                         {children}
                     </div>
-                    <AdSlot type='native'>
+                    <AdSlot type='native' />
                     <div>
                         {/* 主区快右侧 */}
                         {slotRight}
